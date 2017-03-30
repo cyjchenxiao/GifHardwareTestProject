@@ -1,2 +1,0 @@
-# GifHardwareTestProject
-#GifHardwareTestProject
